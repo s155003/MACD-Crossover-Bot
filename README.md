@@ -15,6 +15,7 @@ Uses Alpaca API to place real/paper trades every 4 hours
 📚 Strategy Source
 This bot is based on the January 2025 paper:
 “Optimizing MACD Trading Strategies: A Dance of Finance, Wavelets, and Genetics” (arXiv)
+https://arxiv.org/abs/2501.10808
 
 The paper improves classic MACD trading by:
 
