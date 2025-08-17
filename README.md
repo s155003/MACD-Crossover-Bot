@@ -25,4 +25,4 @@ Using MACD divergence analysis
 
 Optimizing MACD parameters using a genetic algorithm
 
-📊 Backtests in the paper showed a ~5% annual return boost and improved Sharpe ratio.
+📊 Backtests in alpaca markets showed a ~5% annual return boost and improved Sharpe ratio.
